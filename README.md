@@ -16,11 +16,11 @@ It will now generate suggestion if you are good to start the trip / if any actio
 This is only basic prototype of how end product can be interactive. Actual End Product of this project will be more complex and will provide Suggestions for the user 
 pertaining to 
 
-***Efficiency of the Battery in the vehicle.*
-*Fastest Route to reach the destination based on Distance, Traffic,etc.,*
-*Fuel Efficient route that can be chosen based on the condition of roads & speed you maintain.*
-*Routes to avoid based on terrain, weather conditions etc.,*
-*AI will be making suggestion by consuming diggerent APIs for weather, traffic, Location,Altitude,etc.,***
+***Efficiency of the Battery in the vehicle.***
+***Fastest Route to reach the destination based on Distance, Traffic,etc.,***
+***Fuel Efficient route that can be chosen based on the condition of roads & speed you maintain.***
+***Routes to avoid based on terrain, weather conditions etc.,***
+***AI will be making suggestion by consuming diggerent APIs for weather, traffic, Location,Altitude,etc.,***
 
 
 
